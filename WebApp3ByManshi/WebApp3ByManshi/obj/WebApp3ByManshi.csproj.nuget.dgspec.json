@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manshi\\source\\repos\\WebApp3ByManshi\\WebApp3ByManshi\\WebApp3ByManshi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manshi\\source\\repos\\WebApp3ByManshi\\WebApp3ByManshi\\WebApp3ByManshi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manshi\\source\\repos\\WebApp3ByManshi\\WebApp3ByManshi\\WebApp3ByManshi.csproj",
+        "projectName": "WebApp3ByManshi",
+        "projectPath": "C:\\Users\\manshi\\source\\repos\\WebApp3ByManshi\\WebApp3ByManshi\\WebApp3ByManshi.csproj",
+        "packagesPath": "C:\\Users\\manshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manshi\\source\\repos\\WebApp3ByManshi\\WebApp3ByManshi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
